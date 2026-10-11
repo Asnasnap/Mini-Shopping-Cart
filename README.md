@@ -1,5 +1,5 @@
-Mini Shopping Cart
-
+**Mini Shopping Cart
+**
 Mini Shopping Cart is a Java-based shopping application developed as a college mini-project. It provides a simple shopping experience with user login and registration, product browsing, cart management, and checkout functionality. The application uses a database to manage user information and shopping-related data.
 
 ✨ Features
